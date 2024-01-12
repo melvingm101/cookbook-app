@@ -34,3 +34,4 @@ package-lock.json
 
 # typescript
 *.tsbuildinfo
+google-services.json
